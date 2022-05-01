@@ -1,0 +1,11 @@
+﻿  RandColorCharPrinting.cpp
+C:\Users\mahmu\Desktop\RandColorCharPrinting\RandColorCharPrinting\RandColorCharPrinting.cpp(129,18): warning C4309: 'initializing': truncation of constant value
+C:\Users\mahmu\Desktop\RandColorCharPrinting\RandColorCharPrinting\RandColorCharPrinting.cpp(130,20): warning C4309: 'initializing': truncation of constant value
+C:\Users\mahmu\Desktop\RandColorCharPrinting\RandColorCharPrinting\RandColorCharPrinting.cpp(131,20): warning C4309: 'initializing': truncation of constant value
+C:\Users\mahmu\Desktop\RandColorCharPrinting\RandColorCharPrinting\RandColorCharPrinting.cpp(132,20): warning C4309: 'initializing': truncation of constant value
+C:\Users\mahmu\Desktop\RandColorCharPrinting\RandColorCharPrinting\RandColorCharPrinting.cpp(133,20): warning C4309: 'initializing': truncation of constant value
+C:\Users\mahmu\Desktop\RandColorCharPrinting\RandColorCharPrinting\RandColorCharPrinting.cpp(134,20): warning C4309: 'initializing': truncation of constant value
+C:\Users\mahmu\Desktop\RandColorCharPrinting\RandColorCharPrinting\RandColorCharPrinting.cpp(135,20): warning C4309: 'initializing': truncation of constant value
+C:\Users\mahmu\Desktop\RandColorCharPrinting\RandColorCharPrinting\RandColorCharPrinting.cpp(136,21): warning C4309: 'initializing': truncation of constant value
+C:\Users\mahmu\Desktop\RandColorCharPrinting\RandColorCharPrinting\RandColorCharPrinting.cpp(144,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  RandColorCharPrinting.vcxproj -> C:\Users\mahmu\Desktop\RandColorCharPrinting\x64\Debug\RandColorCharPrinting.exe
